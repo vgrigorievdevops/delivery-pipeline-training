@@ -1,3 +1,4 @@
+
 # delivery-pipeline-training
 
 [![Build Status](https://travis-ci.org/devops-ru/delivery-pipeline-training.svg?branch=master)](https://travis-ci.org/devops-ru/delivery-pipeline-training)
